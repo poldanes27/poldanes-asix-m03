@@ -1,3 +1,5 @@
+#Pol Danes#
+
 doseuros = int(input("Quantas monedas tienes de 2 euros: "))
 uneuro = int(input("Quantas monedas tienes de 1 euro: "))
 cincuantacentims = int(input("Quantas monedas tienes de 50 centimos: "))
